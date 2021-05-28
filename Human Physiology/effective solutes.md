@@ -1,0 +1,1 @@
+non-permeable solutes

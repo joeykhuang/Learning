@@ -1,0 +1,1 @@
+erosion of the epithelial cells that line thee stomach

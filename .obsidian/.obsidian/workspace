@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "1ad51d68417fc523",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca37bb2238965edc",
+        "type": "split",
+        "children": [
+          {
+            "id": "27a3417b8f73cd33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/2.1 Nervous System Cell Types.md",
+                "mode": "source"
+              }
+            },
+            "group": "9603d9eb82509740"
+          },
+          {
+            "id": "a5a648afa583d45d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/2.1 Nervous System Cell Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "9603d9eb82509740"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43beecbe6864df51",
+    "type": "split",
+    "children": [
+      {
+        "id": "319628a7a86be931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ddd122158d86e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38dfa928b9c68fa0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e88f4d193b9aa780",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27a3417b8f73cd33",
+  "lastOpenFiles": [
+    "Lectures/2.1 Nervous System Cell Types.md",
+    "Lectures/1.5 Endocrine System Concepts.md",
+    "Lectures/Untitled.md",
+    "antagonistic control.md",
+    "tyrosine.md",
+    "Tyrosine.md",
+    "1.6 Endocrine System Assessment & Pathology.md",
+    "H-P-Adrenal axis.md",
+    "extracellular fluid compartment.md",
+    "interstitial fluid space.md"
+  ]
+}

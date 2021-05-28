@@ -1,0 +1,4 @@
+- [[cell differentiation]]: give cells specialized function
+- [[tissues]]
+- [[organ]]: functional unit of the body
+- [[organ system]]: several organs act together to perform special functions
