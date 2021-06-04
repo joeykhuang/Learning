@@ -1,10 +1,10 @@
 [[integrated membrane proteins]] that has a pore
 
-## Gating
+## gating
 ### [[ligand]]
 - requires binding of specific *chemical* to open
 - [[acetylcholine]] binds to nicotonic receptor on the skeletal muscle
-### voltage
+### voltage [[ion channels]]
 - requires a specific gradient of *electricial charge* across the membrane to open
 - **voltage-gated calcium channel**
 ### mechanical
