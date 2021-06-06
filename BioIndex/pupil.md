@@ -1,0 +1,1 @@
+adjusts the amount of light entering

@@ -1,3 +1,7 @@
+---
+aliases: [action potentials]
+---
+
 ## process
 
 ### stage 1

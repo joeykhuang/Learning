@@ -1,0 +1,1 @@
+detects horizontal movement -> cells are at 90°

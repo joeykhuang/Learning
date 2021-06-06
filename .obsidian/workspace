@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Physiology/3.1 Senses Introduction and Vision.md",
-                "mode": "preview"
+                "file": "Human Physiology/Untitled.md",
+                "mode": "source"
               }
             }
           },
@@ -26,14 +26,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human Physiology/3.1 Senses Introduction and Vision.md",
+                "file": "Human Physiology/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f546a640ddbd882b",
@@ -92,14 +91,14 @@
   "active": "92fc68363549dc6c",
   "lastOpenFiles": [
     "Human Physiology/Untitled.md",
-    "Human Physiology/2.5 Nervous System Organization.md",
+    "BioIndex/chemoreception.md",
+    "chemoreception.md",
+    "taste modalities.md",
+    "Human Physiology/3.4 Somatic Nervous System Structure.md",
+    "somatic nervous system.md",
+    "spinal cord.md",
+    "Human Physiology/3.3 Senses Chemical Senses.md",
     "BioIndex/nervous system.md",
-    "BioIndex/glial cells.md",
-    "BioIndex/membrane potential.md",
-    "Human Physiology/2.4 Nervous System Methods of Communication.md",
-    "adrenergic synapses.md",
-    "BioIndex/chemical synapse.md",
-    "BioIndex/cholinegic synapses.md",
-    "Human Physiology/1.3 Transporter Pumps and Channels.md"
+    "smell.md"
   ]
 }
