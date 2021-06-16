@@ -3,7 +3,7 @@
 ## gating
 ### [[ligand]]
 - requires binding of specific *chemical* to open
-- [[acetylcholine]] binds to nicotonic receptor on the skeletal muscle
+- [[acetylcholine]] binds to nicotonic receptor on the [[skeletal muscle]]
 ### voltage [[ion channels]]
 - requires a specific gradient of *electricial charge* across the membrane to open
 - **voltage-gated calcium channel**

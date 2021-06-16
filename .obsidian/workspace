@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BioIndex/lens.md",
+                "file": "Human Physiology/4.2 Skeletal Muscles Tension and Metabolism.md",
                 "mode": "source"
               }
             }
@@ -26,13 +26,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BioIndex/lens.md",
+                "file": "Human Physiology/4.2 Skeletal Muscles Tension and Metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -90,15 +90,15 @@
   },
   "active": "92fc68363549dc6c",
   "lastOpenFiles": [
-    "BioIndex/lens.md",
-    "BioIndex/otolith organs.md",
-    "BioIndex/visual system.md",
-    "BioIndex/retina.md",
-    "BioIndex/rods.md",
-    "BioIndex/utricle.md",
-    "muscle reflexes.md",
-    "BioIndex/organ of Corti.md",
-    "BioIndex/cochlea.md",
-    "BioIndex/ear.md"
+    "Human Physiology/Untitled.md",
+    "Human Physiology/4.1 Skeletal Muscles Intro and Contraction.md",
+    "muscle.md",
+    "myosin.md",
+    "sacomere.md",
+    "skeletal muscle.md",
+    "myofibril.md",
+    "myofibrils.md",
+    "sacomeres.md",
+    "smooth muscle.md"
   ]
 }

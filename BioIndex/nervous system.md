@@ -27,7 +27,7 @@
 [[somatic nervous system]]: skeletal muscles
 
 ### output
-- [[somatic nervous system|somatic]]: releases [[acetylcholine]], which binds to nicotinic AChR on another [[neuron]] which causes a reaction in the skeletal muscle
+- [[somatic nervous system|somatic]]: releases [[acetylcholine]], which binds to nicotinic AChR on another [[neuron]] which causes a reaction in the [[skeletal muscle]]
 - **parasympathetic**: releases [[acetylcholine]], bind nicotinic AChR on another [[neurons|neuron]], which releases [[acetylcholine]] that bind to muscarinic AChR
 - **sympathetic**: releases [[acetylcholine]], bind nicotinic AChR, releases [[norepinephrine]] that bind to adrenergic receptors
 - **adrenal**: releases [[acetylcholine]], bind nicotinic AChR, releases [[epinephrine]] into the blood
