@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1beb370584ba6770",
-        "type": "split",
-        "children": [
-          {
-            "id": "92fc68363549dc6c",
-            "type": "leaf",
-            "dimension": 78.58672376873662,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Physiology/4.2 Skeletal Muscles Tension and Metabolism.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "1dcd8bb3b19d4c41",
-            "type": "leaf",
-            "dimension": 21.413276231263385,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Human Physiology/4.2 Skeletal Muscles Tension and Metabolism.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
+        "id": "2af82e23f94e9728",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Human Physiology/5.1 Heart Electrical Activity.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sarc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,22 +57,45 @@
   "right": {
     "id": "f546a640ddbd882b",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "a4905c9b34a0f126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dcd8bb3b19d4c41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Human Physiology/5.1 Heart Electrical Activity.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "92fc68363549dc6c",
+  "active": "2af82e23f94e9728",
   "lastOpenFiles": [
+    "Human Physiology/5.1 Heart Electrical Activity.md",
     "Human Physiology/Untitled.md",
-    "Human Physiology/4.1 Skeletal Muscles Intro and Contraction.md",
-    "muscle.md",
-    "myosin.md",
-    "sacomere.md",
-    "skeletal muscle.md",
-    "myofibril.md",
-    "myofibrils.md",
-    "sacomeres.md",
-    "smooth muscle.md"
+    "BioIndex/nervous system.md",
+    "BioIndex/Introduction.md",
+    "pacemaker.md",
+    "BioIndex/skeletal muscle.md",
+    "Human Physiology/4.2 Skeletal Muscles Tension and Metabolism.md",
+    "BioIndex/muscle.md",
+    "BioIndex/smooth muscle.md",
+    "Human Physiology/4.3 Smooth Muscle Structure, Regulation, and Pacemakers.md"
   ]
 }

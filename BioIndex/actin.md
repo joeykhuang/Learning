@@ -1,0 +1,1 @@
+thin filament, makes up the **A-bands**

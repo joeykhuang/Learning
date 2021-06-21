@@ -15,4 +15,4 @@ a graded hyperpolarization due to net influx of negative ions or net efflux of p
 
 ## types
 [[cholinegic synapses]]
-[[adrenergic synapses]]
+[[BioIndex/adrenergic synapses]]

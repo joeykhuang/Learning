@@ -1,3 +1,5 @@
+thick filament, makes up the **I-bands**
+
 ## cross bridge cycling
 
 rigor state: no [[ATP]] bound & tightly bound to [[actin]] -> cause of [[rigor mortis]]

@@ -11,4 +11,8 @@
 	- exposes [[actin]] to [[myosin]] heads
 - changes in the [[membrane potential]] lead to contraction (**E-C Coupling**)
 	- ![[Pasted image 20210610235135.png|400]]
-	- 
+
+## fiber types
+**slow-oxidative**: resists [[skeletal muscle#fatigue]] (muscles for posture)
+**fast-oxidative-glycolytic**: resists [[skeletal muscle#fatigue]] (muscles for walking)
+**fast-glycolytic**: bursts of strong force (muscles for jumping)
